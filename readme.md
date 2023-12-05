@@ -12,11 +12,6 @@ My name is Ryan Kline. I am a software developer based in west Michigan speciali
 
 I'm currently focused on learning and improving my skills in system design and cloud infrastructure.
 
-## 📫 How to Reach Me
-
-- [LinkedIn](https://www.linkedin.com/in/ryanjkline/)
-- [Website](ryanklinedev.netlify.app)
-
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryankline122&show_icons=true&count_private=true&hide=contribs,prs)
