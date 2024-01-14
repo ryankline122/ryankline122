@@ -5,7 +5,7 @@ My name is Ryan Kline. I am a software developer based in west Michigan speciali
 ## 🔧 Technologies & Tools
 
 - Front-end: Angular, React/React Native, Vue
-- Back-end: .NET, Spring, Django
+- Back-end: .NET, Spring, Django, Gin
 - Other: Azure, AWS, Docker, Jenkins, Openshift, Oracle SQL, PostgreSQL
 
 ## 🌱 Currently Learning
