@@ -21,8 +21,8 @@ I'm currently focused on learning and improving my skills in system design and c
 Here are some of my recent projects:
 
 1. [Super Smash Bros. Melee AI](https://github.com/ryankline122/SSBM_AI)
-2. [Monopoly Clone](https://github.com/ryankline122/Monopoly-Clone)
-3. [Pong in SDL2](https://github.com/ryankline122/Pong)
+2. [User authentication and registration - Full Stack Demo](https://github.com/ryankline122/login_and_registration_demo)
+3. [Othello Bot](https://github.com/ryankline122/Othello/tree/main)
 
 Feel free to explore my repositories to learn more about my work.
 
