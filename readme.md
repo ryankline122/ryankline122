@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-My name is Ryan Kline. I am a software developer based in west Michigan specializing in web, mobile, and IoT products.
+My name is Ryan Kline. I am a software developer based in West Michigan specializing in web, mobile, and IoT products.
 
 ## 🔧 Technologies & Tools
 
@@ -11,10 +11,6 @@ My name is Ryan Kline. I am a software developer based in west Michigan speciali
 ## 🌱 Currently Learning
 
 I'm currently focused on learning and improving my skills in system design and cloud infrastructure.
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryankline122&show_icons=true&count_private=true&hide=contribs,prs)
 
 ## 🌟 Featured Repositories
 
