@@ -2,16 +2,17 @@
 
 My name is Ryan Kline. I am a software developer based in West Michigan specializing in web, mobile, and IoT products.
 
-## 🔧 Technologies & Tools
+## 🔧 Preferred Technologies & Tools
 
-- Front-end: Angular, React/React Native, Vue
-- Back-end: .NET, Spring, Django, Gin
-- Languages: Python, Typescript, Go, C#, Java, C/C++
-- Other: Azure, AWS, Docker, Jenkins, Openshift, SQL
+- Front-end: Angular (web), React Native (mobile)
+- Back-end: Node or .NET
+- Databases: Postgres, MS SQL
+- Languages: Python, Typescript, C#, Go 
+- Cloud: Azure
 
 ## 🌱 Currently Learning
 
-I'm currently focused on learning and improving my skills in system design and cloud infrastructure.
+I'm currently focused on learning and improving my skills in system design and best practices for CI/CD. Additionally, I've recently been tinkering with the Elixir programming language alongside the Phoenix web framework.
 
 ## 🤝 Let's Connect
 
