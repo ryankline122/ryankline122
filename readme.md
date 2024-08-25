@@ -12,7 +12,7 @@ My name is Ryan Kline. I am a software developer based in West Michigan speciali
 
 ## 🌱 Currently Learning
 
-I'm currently focused on learning and improving my skills in system design and best practices for CI/CD. Additionally, I've recently been tinkering with the Elixir programming language alongside the Phoenix web framework.
+I'm currently focused on improving my skills in system design and learning best practices for CI/CD. Additionally, I've recently been tinkering with the Elixir programming language alongside the Phoenix web framework.
 
 ## 🤝 Let's Connect
 
