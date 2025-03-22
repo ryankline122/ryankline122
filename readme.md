@@ -5,14 +5,14 @@ My name is Ryan Kline. I am a software developer based in West Michigan speciali
 ## 🔧 Preferred Technologies & Tools
 
 - Front-end: Angular (web), React Native (mobile)
-- Back-end: Django, .NET, or Node
-- Databases: Postgres
-- Languages: Python, Typescript, C#, Go 
+- Back-end: .NET, Spring, Django or Node
+- Databases: Postgres, MS SQL
+- Languages: Typescript, Java, C#, Python, Go 
 - Cloud: Azure
 
-## 🌱 Currently Learning
+## 🏗️ Currently Building
 
-I'm currently focused on improving my skills in system design and cloud infrastructure.
+I've been working on a web-based multiplayer board game over the last few months with Typescript and Java. See my POC project <a href="https://github.com/ryankline122/Monopoly-Pixi">here</a>
 
 ## 🤝 Let's Connect
 
