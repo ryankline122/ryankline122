@@ -6,7 +6,7 @@ My name is Ryan Kline. I am a software developer based in West Michigan speciali
 
 - Front-end: Angular (web), React Native (mobile)
 - Back-end: .NET, Spring, Django or Node
-- Databases: Postgres, MS SQL
+- Databases: Postgres, SQL Sever
 - Languages: Typescript, Java, C#, Python, Go 
 - Cloud: Azure
 
